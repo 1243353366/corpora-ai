@@ -21,6 +21,13 @@ Third-party downloadable AI models referenced by portable-ai-usb (NemoMix,
 Dolphin, Mistral, Qwen, Llama, Phi) are separate upstream artifacts of their
 respective owners and are not part of any import.
 
+| [ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework](https://github.com/ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework) | MIT, Copyright (c) 2025 ProjectZeroDays | ProjectZeroDays (git authors: PROJECT ZERO, Researcher) | 3 |
+| [010io/cyberwar-tools-ua](https://github.com/010io/cyberwar-tools-ua) | MIT | Omelchenko Ihor Oleksandrovych (010io) | 6 |
+| [DurgaRamireddy/Sandworm-APT-Analysis](https://github.com/DurgaRamireddy/Sandworm-APT-Analysis) | No license declared - catalogue entry only, no content reproduced | DurgaRamireddy | 1 |
+| [astroicers/Athena](https://github.com/astroicers/Athena) | Open-core commercial license - catalogue entry only, no content reproduced | astroicers | 1 |
+
+Corpus policy on offensive material (AI-Driven-Zero-Click-Exploit-Deployment-Framework): operational code is not imported; only documentation and metadata are preserved as research data, per the Research-Use Policy.
+
 ## Lab material
 
 Aadi's Digital Lab seeds (repository metadata, research notes, launch log)
