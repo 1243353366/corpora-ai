@@ -10,6 +10,14 @@ third-party upstream material (e.g. MITRE ATT&CK STIX data, ahmia-crawler,
 clinical-nlp-pipeline) strictly with attribution: each record keeps its
 upstream project, repository URL, license, and author information.
 
+## Research-Use Policy
+
+Corpora AI analyzes offensive cyber material strictly as research data.
+Provenance is preserved (upstream project, repository URL, license, authors
+on every record). It explains mechanisms, relationships, historical usage,
+detection opportunities, and defensive implications - and it does not
+transform retrieved material into instructions for attacking real systems.
+
 ## Endpoints
 
 - `POST /api/analyze` - AI + algorithmic text analysis (10 req/min, 32KB cap)
