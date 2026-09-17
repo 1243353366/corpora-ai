@@ -28,6 +28,12 @@ respective owners and are not part of any import.
 
 Corpus policy on offensive material (AI-Driven-Zero-Click-Exploit-Deployment-Framework): operational code is not imported; only documentation and metadata are preserved as research data, per the Research-Use Policy.
 
+| [googleapis/python-genai](https://github.com/googleapis/python-genai) | Apache-2.0, Copyright 2025 Google LLC | Google LLC (googleapis org) and contributors | 3 |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | Apache-2.0, Copyright 2018- The Hugging Face team | The Hugging Face team and community contributors | 3 |
+| [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) | Apache-2.0, NVIDIA Corporation | NVIDIA Corporation and contributors | 3 |
+| [mistralai/client-python](https://github.com/mistralai/client-python) | Apache-2.0, Mistral AI | Mistral AI and contributors | 3 |
+| [Cloudflare AI tooling](https://developers.cloudflare.com/workers-ai/) - Workers AI / AI Gateway / AI Search | Apache-2.0, Cloudflare, Inc. (cloudflare/cloudflare-docs) | Cloudflare, Inc. | 4 |
+
 ## Lab material
 
 Aadi's Digital Lab seeds (repository metadata, research notes, launch log)

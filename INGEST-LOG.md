@@ -11,5 +11,7 @@ Duplicates are detected by exact-title match against the live index before inges
 | 2026-09-17 | portable-ai-usb + policy record | 9 | 0 | 0 | ~25s | 4/4 |
 | 2026-09-17 | cyber-warfare topic batch (PZD framework, cyberwar-tools-ua, 2 catalogues) | 11 | 0 | 0 | 3.4s | 5/5 |
 
-Corpus total after batch: 43 records across 8 source chips.
+| 2026-09-17 | AI-ecosystem batch (Google genai SDK, Transformers, NeMo, Mistral client, Cloudflare AI docs) | 16 | 0 | 0 | 4.8s | 5/5 |
+
+Corpus total after batch: 59 records across 13 source chips.
 Retrieval-quality spot checks (2026-09-17): "exploit framework" -> 5 hits, "squad303" -> 3, "sandworm" -> 1, "athena" -> 1, "cyber warfare" brief summary -> 12 records digested.
