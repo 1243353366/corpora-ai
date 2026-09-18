@@ -169,7 +169,7 @@ async function handleCorporaSearch(request, env) {
   for (const t of terms) params.push("%" + t + "%", "%" + t + "%", "%" + t + "%");
   try {
     const { results } = await env.DB.prepare(
-      `SELECT id, source, title, substr(body, 1, 240) AS snippet, keywords, created_at
+      `SELECT id, source, title, substr(body, 1, 240) AS snippet, substr(body, 1, 1600) AS content, keywords, created_at
        FROM corpora WHERE ${where} ORDER BY created_at DESC, id DESC LIMIT 20`
     ).bind(...params).all();
     return json({ ok: true, q, count: results.length, results });
